@@ -1,0 +1,5 @@
+# macOS folder settings.
+.DS_Store
+
+# Temporary folder used by MacVim.
+*.swp
