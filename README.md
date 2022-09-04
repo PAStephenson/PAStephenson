@@ -1,7 +1,7 @@
 ## About Me <a href=#><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>
 I am a theoretical physics graduate and self-taught programmer. My main
 interests include: physics, mathematics, data analysis, machine
-learning, font and backend web development and automation.
+learning, front and backend web development and automation.
 
 ## Languages and Tools 🧰
 <p>
